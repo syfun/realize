@@ -1,4 +1,4 @@
-module github.com/oxequa/realize
+module github.com/syfun/realize
 
 go 1.14
 
